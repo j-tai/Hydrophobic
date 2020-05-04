@@ -1,0 +1,6 @@
+name: Hydrophobic
+version: 0.1.0
+author: Jasmine Tai
+description: 'Convert underwater elytra gliding to swimming'
+main: ca.jtai.hydrophobic.Main
+api-version: 1.13
